@@ -1,0 +1,2 @@
+# Backward strategy
+Going all the way to the end with one pointer as a reference sticking out. Once all the way in the end you can go back upwards while updating the second pointer. This way we can make the pointer go backwards even though the pointer only goes one way. 
