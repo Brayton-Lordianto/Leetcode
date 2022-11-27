@@ -12,6 +12,9 @@
         "unordered_map": "cpp",
         "vector": "cpp",
         "iterator": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp"
     }
 }
